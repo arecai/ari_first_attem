@@ -125,8 +125,8 @@ The fact that we used datasets from 3 different resources (BOM, TN, IMDB) contai
 
 We provide the following business recomendations:
 
-* The duration of the movies to be produced by Microsoft studio whould be around 131.0 minutes ± 23.54 minutes. 
-* The new Microsoft movies should classified as Action, Adventure, Drama and/or Crime.
+* The duration of the movies to be produced by Microsoft studio should be around 131.0 minutes ± 23.54 minutes. 
+* The new Microsoft movies should classify as Action, Adventure, Drama and/or Crime.
 * The new Microsoft movies should have the following studios as references: BV, Uni, Sony, WB and Fox.
 * The new Microsoft movies should have an available production budget of \\$200.6M ± \\$75.43M.
 * The new Microsoft studio should contact some of the following directors: Pierre Coffin, Anthony Russo, Joe Russo, Jake Kasdan, Jared Bush, Byron Howard, Rich Moore, Andrew Stanton, Angus MacLane, Eric Guillon, Ryan Fleck, Anna Boden, James Wan, F. Gary Gray, Brad Bird, Bill Condon, J.A. Bayona, Ryan Coogler, Joss Whedon, Colin Trevorrow.
