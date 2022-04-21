@@ -48,8 +48,8 @@ Based on the questions provided in the business problem, the variable that we wi
 
 To know what are the films that are doing the best, we will create top 20 list with the best movies. After exploring our available datasents and understanding which information we have available, we will create lists based on:
 
-* **Ratings**: using IMDB datasets
-* **Total gross**: using TN and BOM datasets
+* **Ratings**: using IMDB datasets (1x list)
+* **Total gross**: using TN and BOM datasets (2x lists, one for TN and one for BOM)
 
 
 We want to focus on recent movies, so we will only select the past 5 years movies. The data collected in our datasets cover films from up to 2019, so we will set our range between 2015-2019. 
@@ -80,7 +80,7 @@ We will use these list to gain insights and help Microsoft to create a succesful
 ### 2015-2019 TOP20 BOM highest grossing movies 
 ![2015-2019 TOP20 BOM highest grossing movies](./images/top20_BOM.png)
 
-### Gross average of the  2015-2019 TOP20 BOM highest grossing movies 
+### Total gross average of the  2015-2019 TOP20 BOM highest grossing movies 
 ![Gross average of the  2015-2019 TOP20 BOM highest grossing movies](./images/top20_BOM_totalgross_average.png)
 
 ### Studios that created the 2015-2019 TOP20 BOM highest grossing movies 
@@ -95,8 +95,8 @@ We will use these list to gain insights and help Microsoft to create a succesful
 ### Total gross and budget correlation of the 2015-2019 TOP20 TN highest grossing movies 
 ![Total gross and budget correlation of the 2015-2019 TOP20 TN highest grossing movies](./images/top20_BOM_correlation.png)
 
-### Directors behing the 2015-2019 TOP20 TN highest grossing movies 
-![Directors behing the 2015-2019 TOP20 TN highest grossing movies](./images/top20_TN_directors.png)
+### Directors behind the 2015-2019 TOP20 TN highest grossing movies 
+![Directors behind the 2015-2019 TOP20 TN highest grossing movies](./images/top20_TN_directors.png)
 
 
 ## Evaluation
