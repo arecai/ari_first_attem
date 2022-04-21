@@ -1,6 +1,6 @@
 # Title
 
-**Authors**: Student1, Student2
+**Authors**: Ariadna Recasens
 
 ## Overview
 
