@@ -65,8 +65,39 @@ We will use these list to gain insights and help Microsoft to create a succesful
 
 
 
-### TOP20 IMDB highest rated movies 
+### 2015-2019 TOP20 IMDB highest rated movies 
 ![TOP20 IMDB highest rated movies](./images/top20_IMDB_movies.png)
+
+### Duration average of the 2015-2019 TOP20 IMDB highest rated movies 
+![Average duration of the 2015-2019 TOP20 IMDB highest rated movies](./images/top20_IMDB_duration.png)
+
+### Most common genres of the 2015-2019 TOP20 IMDB highest rated movies 
+![Most common genres of the 2015-2019 TOP20 IMDB highest rated movies](./images/top20_IMDB_genres.png)
+
+### Evolution of genres preference between 2015-2019 for the TOP20 IMDB highest rated movies 
+![Evolution of genres preference between 2015-2019 for the TOP20 IMDB highest rated movies](./images/top20_IMDB_genres_dynamic.png)
+
+### 2015-2019 TOP20 BOM highest grossing movies 
+![2015-2019 TOP20 BOM highest grossing movies](./images/top20_BOM.png)
+
+### Gross average of the  2015-2019 TOP20 BOM highest grossing movies 
+![Gross average of the  2015-2019 TOP20 BOM highest grossing movies](./images/top20_BOM_totalgross_average.png)
+
+### Studios that created the 2015-2019 TOP20 BOM highest grossing movies 
+![Studios that created the 2015-2019 TOP20 BOM highest grossing movies](./images/top20_IMDB_studios.png)
+
+### 2015-2019 TOP20 TN highest grossing movies 
+![2015-2019 TOP20 TN highest grossing movies](./images/top20_TN.png)
+
+### Total gross and budget average of the 2015-2019 TOP20 TN highest grossing movies 
+![Total gross and budget average of the 2015-2019 TOP20 TN highest grossing movies](./images/top20_TN_gross_budget.png)
+
+### Total gross and budget correlation of the 2015-2019 TOP20 TN highest grossing movies 
+![Total gross and budget correlation of the 2015-2019 TOP20 TN highest grossing movies](./images/top20_BOM_correlation.png)
+
+### Directors behing the 2015-2019 TOP20 TN highest grossing movies 
+![Directors behing the 2015-2019 TOP20 TN highest grossing movies](./images/top20_TN_directors.png)
+
 
 ## Conclusions
 
