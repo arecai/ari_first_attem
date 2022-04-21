@@ -99,16 +99,40 @@ We will use these list to gain insights and help Microsoft to create a succesful
 ![Directors behing the 2015-2019 TOP20 TN highest grossing movies](./images/top20_TN_directors.png)
 
 
+## Evaluation
+
+In this project, we have created 3 lists:
+- Top20 iMDB highest rated movies
+- Top20 TN highest grossing movies
+- Top20 BOM highest grossing movies
+
+Summary of main findings:
+* Average duration of highest-rated movies is 131.0 ± 23.54 minutes.
+* Most common genres in top20 IMDB highest rated movies between 2015-2019 are Drama, Action, Adventure, Crime. 
+* The preference for drama is declining; Action and Adventure are increasing; and Crime reamins stable.
+* The studies that created the top20 highest rating movies are BV, Uni, Sony, WB and Fox.
+* The top20 TN highest grossing movies had a production budget average of $200.6 M ± $75.43 M.
+* There is a signficant correlation (p < 0.05) between budget and worldwide gross.
+* The directors behing the top20 highest grossing movies are: Pierre Coffin, Anthony Russo, Joe Russo, Jake Kasdan, Jared Bush, Byron Howard, Rich Moore, Andrew Stanton, Angus MacLane, Eric Guillon, Ryan Fleck, Anna Boden, James Wan, F. Gary Gray, Brad Bird, Bill Condon, J.A. Bayona, Ryan Coogler, Joss Whedon, Colin Trevorrow.
+
+
+Evaluation: the top20 TN and top20 BOM lists provide similar results, which is an indicative of the robustness of our case-study. 
+
+The fact that we used datasets from 3 different resources (BOM, TN, IMDB) containg large amounts of data increase the conficence of our results.  
+
 ## Conclusions
 
-Provide your conclusions about the work you've done, including any limitations or next steps.
+We provide the following business recomendations:
 
+* The duration of the movies to be produced by Microsoft studio whould be around 131.0 minutes ± 23.54 minutes. 
+* The new Microsoft movies should be calified as Action, Adventure, Drama and/or Crime.
+* The new Microsoft movies should have the following studios as references: BV, Uni, Sony, WB and Fox.
+* The new Microsoft movies should have an available production budget of $200.6 M ± $75.43 M.
+* The new Microsoft studio should contact some of the following directors: Pierre Coffin, Anthony Russo, Joe Russo, Jake Kasdan, Jared Bush, Byron Howard, Rich Moore, Andrew Stanton, Angus MacLane, Eric Guillon, Ryan Fleck, Anna Boden, James Wan, F. Gary Gray, Brad Bird, Bill Condon, J.A. Bayona, Ryan Coogler, Joss Whedon, Colin Trevorrow.
+
+Furhter steps: to analyze the datasets containing the critics comments. We can gain more insights by knowing what the experts in the field (the critics) 
 ***
-Questions to consider:
-* What would you recommend the business do as a result of this work?
-* What are some reasons why your analysis might not fully solve the business problem?
-* What else could you do in the future to improve this project?
-***
+
 
 ## For More Information
 
